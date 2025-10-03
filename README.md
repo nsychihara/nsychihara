@@ -1,12 +1,12 @@
 ## Sociais
 <a href="mailto:nychihara@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="50" height="50" style="fill:#D14836"/>
 </a>
 <a href="https://instagram.com/nsychihara">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="50" height="50" style="fill:#E4405F"/>
 </a>
 <a href="https://linkedin.com/in/nicholas-ychihara">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="50" height="50" style="fill:#0A66C2"/>
 </a>
 
 ---
