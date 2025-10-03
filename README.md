@@ -21,11 +21,20 @@
 ---
 
 ## Competências
-- Full Stack  
-- Banco de Dados SQL  
-- Gestão de Projetos  
-- DevOps  
-- Embarcados/Hardware  
+<table>
+  <tr>
+    <td>💻 Full Stack</td>
+    <td>🗄️ Banco de Dados SQL</td>
+  </tr>
+  <tr>
+    <td>📋 Gestão de Projetos</td>
+    <td>⚙️ DevOps</td>
+  </tr>
+  <tr>
+    <td>🔌 Embarcados/Hardware</td>
+  </tr>
+</table>
+
 
 ---
 
