@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/aws-icon-1024x616-94p1n4un.png" title="AWS" alt="AWS" width="70"/>&nbsp;
 </div>
 
 
