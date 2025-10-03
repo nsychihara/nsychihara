@@ -1,13 +1,7 @@
 ## Sociais
-<a href="mailto:nychihara@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.png" alt="Gmail" width="50" height="50" style="fill:#D14836"/>
-</a>
-<a href="https://instagram.com/nsychihara">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="50" height="50" style="fill:#E4405F"/>
-</a>
-<a href="https://linkedin.com/in/nicholas-ychihara">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="50" height="50" style="fill:#0A66C2"/>
-</a>
+[<img src="https://img.shields.io/badge/-Gmail-?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>](mailto:nychihara@gmail.com)
+[<img src="https://img.shields.io/badge/-Instagram-?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>](https://instagram.com/nsychihara)
+[<img src="https://img.shields.io/badge/-LinkedIn-?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>](https://linkedin.com/in/nicholas-ychihara)
 
 ---
 
