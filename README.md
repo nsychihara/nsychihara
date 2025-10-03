@@ -19,21 +19,13 @@
 
 
 ---
-
 ## Competências
-<table>
-  <tr>
-    <td>💻 Full Stack</td>
-    <td>🗄️ Banco de Dados SQL</td>
-  </tr>
-  <tr>
-    <td>📋 Gestão de Projetos</td>
-    <td>⚙️ DevOps</td>
-  </tr>
-  <tr>
-    <td>🔌 Embarcados/Hardware</td>
-  </tr>
-</table>
+![Full Stack](https://img.shields.io/badge/-Full%20Stack-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
+![Banco de Dados SQL](https://img.shields.io/badge/-Banco%20de%20Dados%20SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
+![Gestão de Projetos](https://img.shields.io/badge/-Gestão%20de%20Projetos-0D1117?style=for-the-badge&logo=trello&logoColor=white)
+![DevOps](https://img.shields.io/badge/-DevOps-0D1117?style=for-the-badge&logo=docker&logoColor=white)
+![Embarcados/Hardware](https://img.shields.io/badge/-Embarcados%2FHardware-0D1117?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 
 ---
