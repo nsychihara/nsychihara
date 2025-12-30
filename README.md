@@ -31,7 +31,7 @@
 
 ## Formação Acadêmica
 - **Engenharia da Computação - IFSP Birigui (2022 - 2024)**  
-  _Interrompido/Trancado_
+  _Interrompido_
 
 - **Análise e Desenvolvimento de Sistemas - Unimar (2025 - )**  
   _Cursando_
