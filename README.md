@@ -24,7 +24,7 @@
 ![Banco de Dados SQL](https://img.shields.io/badge/-Banco%20de%20Dados%20SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=60)
 ![Gestão de Projetos](https://img.shields.io/badge/-Gestão%20de%20Projetos-0D1117?style=for-the-badge&logo=trello&logoColor=white&logoWidth=60)
 ![DevOps](https://img.shields.io/badge/-DevOps-0D1117?style=for-the-badge&logo=docker&logoColor=white&logoWidth=60)
-![Embarcados/Hardware](https://img.shields.io/badge/-Embarcados%2FHardware-0D1117?style=for-the-badge&logo=arduino&logoColor=white&logoWidth=60)
+![LLM & RAG](https://img.shields.io/badge/-LLM%20%26%20RAG-0D1117?style=for-the-badge&logo=openai&logoColor=white&logoWidth=60)
 
 
 
